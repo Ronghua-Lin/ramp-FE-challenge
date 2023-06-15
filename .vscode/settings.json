@@ -1,0 +1,14 @@
+{
+  "editor.tokenColorCustomizations": {
+    "[Default Dark Modern]": {
+      "textMateRules": [
+        {
+          "scope": "source.css.less entity.other.attribute-name.pseudo-element.css",
+          "settings": {
+            "foreground": "#FFFF00" // Yellow color code
+          }
+        }
+      ]
+    }
+  }
+}
